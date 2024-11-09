@@ -9,8 +9,6 @@ public:
         void getdata();
         void calculatedata();
 };
-
-
 void calci::calculatedata()
 {
 
